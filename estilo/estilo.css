@@ -1,0 +1,29 @@
+html{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: black;
+}
+body{
+    background-color: yellow;
+}
+h1{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+ul{
+    color: black;
+}
+a{
+    color: red;
+}
+p, li{
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+p, a{
+    text-align: center;
+}
